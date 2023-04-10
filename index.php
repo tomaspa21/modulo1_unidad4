@@ -1,9 +1,7 @@
 <?php
 ini_set('display_error', 1);
 
-
 ini_set('display_strartup', 1);
-
 
 error_reporting(E_ALL);
 
